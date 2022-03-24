@@ -1,7 +1,7 @@
 SensorType,SerialNumber,ScoopID,Equation,A,B,C,D,Offset,SensorStatus
-Wind,944,na,E1,3.28E+01,-4.50E+00,na,na,na,Active
-Wind,946,na,E1,2.40E+01,-1.90E+00,na,na,na,Active
-Wind,955,na,E1,3.21E+01,-4.20E+00,na,na,na,Active
+Wind,N944UA,na,E1,3.28E+01,-4.50E+00,na,na,na,Active
+Wind,N946UA,na,E1,2.40E+01,-1.90E+00,na,na,na,Active
+Wind,N955UA,na,E1,3.21E+01,-4.20E+00,na,na,na,Active
 Wind,0,na,E1,2.96E+01,-3.53E+00,na,na,na,na
 Imet,45363,na,E2,9.93E-04,2.64E-04,1.47E-07,na,na,Retired
 Imet,45364,na,E2,1.01E-03,2.61E-04,1.53E-07,na,na,Retired
@@ -96,3 +96,12 @@ Imet,58726,N,E2,.569461e-03,7.414773e-05,2.064143e-05,na,na,Active
 RH,40,N,E3,6.805232e-02,6.191853e-01,na,na,na,Active
 RH,41,N,E3,6.997572e-02,6.075035e-01,na,na,na,Active
 RH,42,N,E3,6.639113e-02,7.241420e-01,na,na,na,Active
+Wind,N933UA,na,E1,3.21E+01,-4.20E+00,na,na,na,Active
+Wind,N934UA,na,E1,3.21E+01,-4.20E+00,na,na,na,Active
+Wind,N935UA,na,E1,3.21E+01,-4.20E+00,na,na,na,Active
+Wind,N936UA,na,E1,3.21E+01,-4.20E+00,na,na,na,Active
+Wind,N937UA,na,E1,3.21E+01,-4.20E+00,na,na,na,Active
+Wind,N938UA,na,E1,3.21E+01,-4.20E+00,na,na,na,Active
+Wind,N939UA,na,E1,3.21E+01,-4.20E+00,na,na,na,Active
+Wind,N940UA,na,E1,3.21E+01,-4.20E+00,na,na,na,Active
+Wind,N952UA,na,E1,3.21E+01,-4.20E+00,na,na,na,Active
